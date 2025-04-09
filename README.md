@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a  B.Tech Computer Engineering student at Jamia Millia Islamia, with a strong interest in software development and emerging technologies.<br>⚡Passionate about frontend development and looking to collaborate for the same.<br> ✨Currently expanding my skill set by exploring the fundamentals and applications of machine learning
+🔭 I am a  B.Tech Computer Engineering student at Jamia Millia Islamia, with a strong interest in software development and emerging technologies.<br>⚡Passionate about frontend development and looking to collaborate for the same.<br> ✨Currently expanding my skill set by exploring the fundamentals and applications of Machine Learning.
 
 
 ## 🌐 Socials:
